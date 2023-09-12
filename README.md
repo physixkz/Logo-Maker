@@ -55,6 +55,9 @@ Square shape
 Black background
 ![Alt text](example.png)
 
+Video Guide
+https://drive.google.com/file/d/1181xQtRdZuUjBIHIEaq9XqaFH1ZDAzJw/view
+
 ## Contributing
 N/A
 
