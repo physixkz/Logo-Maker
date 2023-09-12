@@ -4,7 +4,8 @@
   "description": "SVG Logo Generator",
   "main": "index.js",
   "scripts": {
-    "start": "node index.js"
+    "start": "node index.js",
+    "test": "jest"
   },
   "author": "Freddy Guerra",
   "license": "MIT",
