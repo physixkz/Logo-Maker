@@ -1,7 +1,7 @@
 // Import required modules
 const { writeFile } = require("fs");
 const { prompt } = require("inquirer");
-const { Triangle, Square, Circle } = require("./shapes");
+const { Triangle, Square, Circle } = require("./lib/shapes");
 
 // Function to generate SVG and write it to a file
 const writeToFile = (fileName, answers) => {

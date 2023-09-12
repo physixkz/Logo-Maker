@@ -1,8 +1,17 @@
 {
+  "name": "logo-gen",
+  "version": "1.0.0",
+  "description": "SVG Logo Generator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Freddy Guerra",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^8.2.6"
+  },
   "devDependencies": {
     "jest": "^29.6.4"
-  },
-  "dependencies": {
-    "inquirer": "^9.2.11"
   }
 }
